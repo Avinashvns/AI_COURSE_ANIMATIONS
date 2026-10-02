@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3766617142_452811386_223132457.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_3912420144_1957468282.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_125152860_3067211393.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_3470469976_256221353.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_3880968470_4164279695.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_4213869821_3919660654.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_1945577391_1477986745.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_3997669029_8329703.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_2141265639_1203833485.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_2645707024_1734803210.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_3284940171_3654663623.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/style_test/480p15/partial_movie_files/StyleTest/3614740012_3880968470_2481052825.mp4'

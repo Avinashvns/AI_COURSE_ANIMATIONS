@@ -1,0 +1,37 @@
+{
+    "operation": "Subtraction",
+    "input_values": [
+        5,
+        10,
+        15,
+        20,
+        11,
+        30,
+        40,
+        50
+    ],
+    "operand": 2.0,
+    "layout": "vertical",
+    "input_position": {
+        "x": 0.0,
+        "y": 1.15
+    },
+    "output_position": {
+        "x": 0.0,
+        "y": -1.55
+    },
+    "cell_size": 0.75,
+    "cell_spacing": 0.1,
+    "number_font_size": 29,
+    "index_font_size": 21,
+    "show_indices": true,
+    "show_code": true,
+    "animation_speed": 1.0,
+    "element_delay": 0.15,
+    "margins": {
+        "left": 0.8,
+        "right": 0.8,
+        "top": 0.4,
+        "bottom": 0.3
+    }
+}

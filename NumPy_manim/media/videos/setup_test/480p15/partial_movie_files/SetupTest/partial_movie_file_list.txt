@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/setup_test/480p15/partial_movie_files/SetupTest/2118183852_1386121866_223132457.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/setup_test/480p15/partial_movie_files/SetupTest/366519484_310361679_1161158694.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/setup_test/480p15/partial_movie_files/SetupTest/366519484_2645707024_920273527.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/setup_test/480p15/partial_movie_files/SetupTest/366519484_2294398270_2303955776.mp4'
+file 'file:D:/Projects/AI_COURSE_ANIMATIONS/NumPy_manim/media/videos/setup_test/480p15/partial_movie_files/SetupTest/366519484_847192958_4014776057.mp4'
