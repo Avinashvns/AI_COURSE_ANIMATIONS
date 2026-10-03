@@ -1,0 +1,13 @@
+{
+    "array": [
+        10,
+        20,
+        30,
+        40,
+        50
+    ],
+    "array_label": "ARRAY",
+    "index_label": "INDEX",
+    "element_label": "Each value is an element",
+    "animation_speed": 2.0
+}

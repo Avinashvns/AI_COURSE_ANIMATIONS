@@ -1,0 +1,32 @@
+{
+    "array": [
+        [
+            1,
+            2,
+            3
+        ],
+        [
+            4,
+            5,
+            6
+        ]
+    ],
+    "flow_steps": [
+        "Array",
+        "Dimension",
+        "Axis",
+        "Shape",
+        "ndim",
+        "size"
+    ],
+    "questions": [
+        "shape kya hai ?",
+        "ndim kya hoga ?",
+        "Total elements kitne hain ?",
+        "Axis 0 kya represent karta hai ?",
+        "Axis 1 kya represent karta hai ?"
+    ],
+    "animation_speed": 2.0,
+    "question_delay": 0.65,
+    "flow_delay": 1.5
+}
